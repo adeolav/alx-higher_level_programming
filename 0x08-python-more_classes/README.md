@@ -1,6 +1,6 @@
 # Python - More Classes and Objects
 
-This project about object-oriented programming in Python using class methods, static methods, class vs instance attributes, andbhow to use the special `__str__` and `__repr__` methods.
+This project is about object-oriented programming in Python using class methods, static methods, class vs instance attributes, and how to use the special `__str__` and `__repr__` methods.
 
 ## Tests :heavy_check_mark:
 
